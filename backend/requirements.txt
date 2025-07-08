@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+llama-index
+langchain
+chromadb
+pydantic
+python-dotenv
+streamlit
+aiohttp
+redis
+sqlalchemy
+psycopg2-binary
